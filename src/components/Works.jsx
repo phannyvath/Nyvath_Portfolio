@@ -1,0 +1,2 @@
+const Works = () => <section className="text-white min-h-[200px] flex items-center justify-center bg-tertiary rounded-2xl shadow-lg my-10">Works Section (To be implemented)</section>;
+export default Works; 
